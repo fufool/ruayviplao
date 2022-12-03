@@ -1,0 +1,18 @@
+{
+  "name": "ruayviplao",
+  "main": "ruayviplao",
+  "theme": "syntax",
+  "version": "1.1.24",
+  "description": "สมัครหวยลาว แจกฟรีสูตรหวยลาวแม่น ๆ แทงหวยลาววันนี้จ่ายเยอะที่สุดในไทย มีระบบที่ทันสมัย จ่ายหนัก จ่ายจริง",
+  "keywords": [
+    "สมัครหวยลาว",
+    "เลขเด็ดลาว",
+    "แทงหวยลาว",
+    "ซื้อหวยลาววันนี้"
+  ],
+  "repository": "https://github.com/fufool/ruayviplao.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
